@@ -1,4 +1,4 @@
-#Exomiser Demo Application
+# Exomiser Demo Application
 
 This is a simple Spring Boot app to demonstrate how to set-up and use the Exomiser programmatically from within another Spring application.
 
